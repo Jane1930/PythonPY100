@@ -12,7 +12,7 @@ files:
   visible: true
   placeholders:
   - offset: 46
-    length: 29
+    length: 1
     placeholder_text: '...  # TODO количество ступеней'
     initial_state:
       length: 31
@@ -21,7 +21,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 4
-  - offset: 89
+  - offset: 61
     length: 27
     placeholder_text: '...:  # TODO как получить последовательность чисел?'
     initial_state:
@@ -31,8 +31,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 'range(1, count_stairs + 1):'
-  - offset: 130
-    length: 32
+  - offset: 102
+    length: 9
     placeholder_text: '(...)  # TODO печать ступени'
     initial_state:
       length: 28

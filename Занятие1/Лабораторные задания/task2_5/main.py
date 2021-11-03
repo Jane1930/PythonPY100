@@ -1,3 +1,3 @@
-list_ = list(range(1, 10, 2))  # TODO сформировать список чисел
+list_ = list(range(1, 10, 2))
 
 print(list_)

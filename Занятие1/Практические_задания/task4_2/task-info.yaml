@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 8
-    length: 73
+    length: 20
     placeholder_text: '...  # TODO список целых чисел от 50 до 100 включительно'
     initial_state:
       length: 56

@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 8
-    length: 91
+    length: 12
     placeholder_text: '...  # TODO запросить месяц у пользователя. Номер месяца -
       целочисленное значение!'
     initial_state:
@@ -14,7 +14,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: int(input())
-  - offset: 114
+  - offset: 35
     length: 7
     placeholder_text: '...'
     initial_state:
@@ -24,7 +24,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 3, 4, 5
-  - offset: 158
+  - offset: 79
     length: 11
     placeholder_text: '...'
     initial_state:
@@ -34,7 +34,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 6, 7, 8
-  - offset: 205
+  - offset: 126
     length: 11
     placeholder_text: '...'
     initial_state:
@@ -44,7 +44,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 9, 10, 11
-  - offset: 253
+  - offset: 174
     length: 10
     placeholder_text: '...'
     initial_state:

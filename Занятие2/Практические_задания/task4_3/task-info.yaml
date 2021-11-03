@@ -41,7 +41,7 @@ files:
   visible: true
   placeholders:
   - offset: 107
-    length: 88
+    length: 33
     placeholder_text: '...:  # TODO как за один раз получать пару индекс-значение?'
     initial_state:
       length: 59
@@ -50,8 +50,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 'enumerate(rus_alphabet, start=1):'
-  - offset: 210
-    length: 99
+  - offset: 155
+    length: 13
     placeholder_text: '..., value)  # TODO как тогда должен выглядеть индекс?'
     initial_state:
       length: 54

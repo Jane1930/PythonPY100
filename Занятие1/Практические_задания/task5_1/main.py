@@ -1,6 +1,6 @@
 a = True
 b = False
 
-a, b = b, a# TODO поменяйте значения местами
+a, b = b, a
 
 print(a, b)

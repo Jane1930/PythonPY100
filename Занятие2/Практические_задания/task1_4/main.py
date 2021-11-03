@@ -1,4 +1,4 @@
-condition = 20 <= 11  # TODO запишите логическое выражение
+condition = 20 <= 11
 condition = not(20 > 11)
 
 print(condition)

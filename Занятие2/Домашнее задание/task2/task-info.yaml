@@ -8,15 +8,15 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 110
-    length: 12
+  - offset: 121
+    length: 2
     placeholder_text: '...)  # TODO'
     initial_state:
       length: 12
       offset: 110
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: min(list_))
   text: |
     if __name__ == "__main__":
@@ -26,5 +26,8 @@ files:
 - name: __init__.py
   visible: false
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 16 Oct 2021 21:04:09 UTC
 record: -1

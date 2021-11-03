@@ -43,7 +43,7 @@ files:
   visible: true
   placeholders:
   - offset: 157
-    length: 44
+    length: 8
     placeholder_text: '... # TODO как получить первый элемент?'
     initial_state:
       length: 39
@@ -52,8 +52,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: list_[0]
-  - offset: 339
-    length: 36
+  - offset: 303
+    length: 6
     placeholder_text: '...:  # TODO где будем перебирать?'
     initial_state:
       length: 34
@@ -62,8 +62,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 'list_:'
-  - offset: 652
-    length: 51
+  - offset: 586
+    length: 26
     placeholder_text: '...:  # TODO записать условие'
     initial_state:
       length: 29
@@ -72,8 +72,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 'current_value < min_value:'
-  - offset: 769
-    length: 62
+  - offset: 678
+    length: 25
     placeholder_text: '# TODO  если нашли, то что делаем?'
     initial_state:
       length: 34

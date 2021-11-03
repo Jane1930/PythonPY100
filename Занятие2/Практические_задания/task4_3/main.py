@@ -1,5 +1,5 @@
 if __name__ == "__main__":
     rus_alphabet = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя"
 
-    for index, value in enumerate(rus_alphabet, start=1):  # TODO как за один раз получать пару индекс-значение?
-        print(index, value)  # TODO как тогда должен выглядеть индекс?  # или index + 1, но лучше в самой функции
+    for index, value in enumerate(rus_alphabet, start=1):
+        print(index, value)

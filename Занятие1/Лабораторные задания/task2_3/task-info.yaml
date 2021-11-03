@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 126
+    length: 72
     placeholder_text: '...  # TODO найти количество натуральных чисел кратных 23'
     initial_state:
       length: 57

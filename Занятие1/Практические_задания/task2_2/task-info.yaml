@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 39
-    length: 68
+    length: 23
     placeholder_text: 'input("Ширина: ")  # TODO привести к целочисленному типу данных'
     initial_state:
       length: 63
@@ -18,8 +18,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 'int(input("Ширина: "))'
-  - offset: 121
-    length: 62
+  - offset: 76
+    length: 20
     placeholder_text: '...  # TODO посчитать периметр прямоугольника'
     initial_state:
       length: 45

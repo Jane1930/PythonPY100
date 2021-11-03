@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 66
-    length: 67
+    length: 17
     placeholder_text: '...:  # TODO Заменить многоточие необходиммым условием'
     initial_state:
       length: 54

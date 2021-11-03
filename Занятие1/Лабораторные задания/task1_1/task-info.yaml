@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 59
-    length: 86
+    length: 40
     placeholder_text: '...  # TODO запросить у пользователя год рождения'
     initial_state:
       length: 49
@@ -13,7 +13,7 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 'int(input("Год рождения: "))'
-  - offset: 161
+  - offset: 115
     length: 27
     placeholder_text: '...  # TODO запросить у пользователя текущий год'
     initial_state:
@@ -23,8 +23,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 'int(input("Текущий год: "))'
-  - offset: 190
-    length: 104
+  - offset: 144
+    length: 49
     placeholder_text: '# TODO посчитать и распечатать количество прожитых дней'
     initial_state:
       length: 55

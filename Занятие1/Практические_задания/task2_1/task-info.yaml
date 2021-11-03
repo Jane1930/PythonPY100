@@ -9,7 +9,7 @@ files:
   visible: true
   placeholders:
   - offset: 12
-    length: 83
+    length: 39
     placeholder_text: 'input()  # TODO заполните подсказку для функции input'
     initial_state:
       length: 53
@@ -18,8 +18,8 @@ files:
     selected: true
     status: Solved
     encrypted_possible_answer: 'input("Введите строку Hello World: ")'
-  - offset: 97
-    length: 115
+  - offset: 51
+    length: 33
     placeholder_text: '# TODO c помощью функции print рачпечатайте значение переменной
       input_str и её тип'
     initial_state:

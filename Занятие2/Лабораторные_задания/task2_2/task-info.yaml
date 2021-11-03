@@ -19,7 +19,7 @@ files:
     status: Solved
     encrypted_possible_answer: 0
   - offset: 59
-    length: 56
+    length: 33
     placeholder_text: |-
       ...:  # TODO диапазон чисел
               ...
@@ -32,8 +32,8 @@ files:
     encrypted_possible_answer: |-
       range(10):
               sum_ += number
-  - offset: 121
-    length: 43
+  - offset: 98
+    length: 11
     placeholder_text: '# TODO печатаем ответ'
     initial_state:
       length: 21

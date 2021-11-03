@@ -1,3 +1,10 @@
 if __name__ == "__main__":
-    # Write your solution here
-    pass
+    num_list = []
+    while True:
+        num = int(input("Введите число: "))
+        if num < 0:
+            break
+        if 3 <= num <= 13:
+            num_list.append(num)
+    print(num_list)
+

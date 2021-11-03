@@ -3,15 +3,15 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 29
-    length: 37
+  - offset: 25
+    length: 82
     placeholder_text: '...  # TODO проверка совпадения строк'
     initial_state:
       length: 37
       offset: 29
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: |-
       if str1[:k] == str2[:k]:
               print('ДА')
@@ -28,6 +28,6 @@ files:
 - name: __init__.py
   visible: false
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
 post_submission_on_open: true

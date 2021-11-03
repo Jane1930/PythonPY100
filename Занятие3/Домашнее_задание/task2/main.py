@@ -8,5 +8,6 @@ def check_string(str_):
 
 
 if __name__ == "__main__":
-    # Write your solution here
-    pass
+    # def is_binary_number(srt_):
+    str_ = input("Введите строку: ")
+    print(check_string(str_))

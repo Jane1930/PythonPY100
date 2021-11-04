@@ -40,8 +40,7 @@ def is_win(field, char):      # функция проверки на выигр�
         ceil_1 = get_ceil(field, row_index=win_comb[0][0], col_index=win_comb[0][1])
         ceil_2 = get_ceil(field, row_index=win_comb[1][0], col_index=win_comb[1][1])
         ceil_3 = get_ceil(field, row_index=win_comb[2][0], col_index=win_comb[2][1])
-        # (ceil_1 == ceil_2) and (ceil_2 == ceil_3) and (ceil_3 != EMPTY_CEIL)
-        if ceil_1 == ceil_2 == ceil_3 == char:  # свойство транзитивности
+        if ceil_1 == ceil_2 == ceil_3 == char:
             return True
 
     return False

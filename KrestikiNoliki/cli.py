@@ -52,7 +52,7 @@ def get_step(size=3):           # функция хода игрока, полу
         return x, y
 
 
-def single_to_double_coord(position, size=3):    # перевод координаты в двумерную
+def single_to_double_coord(position, size=3):    # перевод координаты в двумерные
     coord = int(position) - 1
     row_index = coord // size
     col_index = coord % size
